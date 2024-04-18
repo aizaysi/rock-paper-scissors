@@ -21,7 +21,7 @@ This is a basic Rock Paper Scissors game created as a web application. Players c
 
 ## Demo
 
-You can view a live demo of the game https://ks209.github.io/rock-paper-scissors/
+You can view a live demo of the game https://aizaysi.github.io/rock-paper-scissors/
 
 ## Features
 
@@ -55,11 +55,4 @@ The first player to reach a score of 5 wins the game.
 Game Gets Auto Restarted
 
 ## Screenshot
-
-![image](https://github.com/ks209/rock-paper-scissors/assets/64371779/a583ae48-6995-483b-b69c-6373c910971d)
-
-### Made By Kartik Singla
-
-
-### © PIMO
 
